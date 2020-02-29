@@ -1,0 +1,10 @@
+INSERT INTO alunos_campus.matricula (id, disciplina_id, aluno_id, turma_id, data_trancamento) VALUES (1, 1, 1, 1, null);
+INSERT INTO alunos_campus.matricula (id, disciplina_id, aluno_id, turma_id, data_trancamento) VALUES (2, 2, 1, 1, null);
+INSERT INTO alunos_campus.matricula (id, disciplina_id, aluno_id, turma_id, data_trancamento) VALUES (3, 1, 2, 1, null);
+INSERT INTO alunos_campus.matricula (id, disciplina_id, aluno_id, turma_id, data_trancamento) VALUES (4, 2, 2, 1, null);
+INSERT INTO alunos_campus.matricula (id, disciplina_id, aluno_id, turma_id, data_trancamento) VALUES (5, 1, 3, 1, null);
+INSERT INTO alunos_campus.matricula (id, disciplina_id, aluno_id, turma_id, data_trancamento) VALUES (6, 2, 3, 1, null);
+INSERT INTO alunos_campus.matricula (id, disciplina_id, aluno_id, turma_id, data_trancamento) VALUES (7, 1, 4, 1, null);
+INSERT INTO alunos_campus.matricula (id, disciplina_id, aluno_id, turma_id, data_trancamento) VALUES (8, 2, 4, 1, null);
+INSERT INTO alunos_campus.matricula (id, disciplina_id, aluno_id, turma_id, data_trancamento) VALUES (9, 1, 6, 1, '2020-02-28');
+INSERT INTO alunos_campus.matricula (id, disciplina_id, aluno_id, turma_id, data_trancamento) VALUES (10, 2, 6, 1, '2020-02-28');
